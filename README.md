@@ -30,7 +30,7 @@ They should adhere to at least the hosting country's equivalent of [ADA standard
 
 ### Virtual
 
-All online services necessary for the event, including its website and any video platforms, should be usable by users who with limited eyesight, hearing, and/or mobility.
+All online services necessary for the event, including its website and any video platforms, should be usable by users who with limited or no eyesight, hearing, and/or mobility.
 Any website created by the event should conform to [WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref) by the date of the conference at Level A and at least mostly to AA.
 
 ## Accommodations
