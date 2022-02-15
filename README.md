@@ -45,7 +45,7 @@ You should cover at least:
 ### COVID Safety
 
 Any event venue should comply with local, state, and federal COVID restrictions, including mask and vaccine requirements.
-Any person I come into contact with must either be fully vaccinated or have a valid medical exemption.
+Any person I come into contact with must either be fully vaccinated, recovered from COVID-19 within the last year, have a valid medical exemption, or have a negative COVID-19 test from within a day prior to the event.
 
 ### Speaking Fees and Honorariums
 
