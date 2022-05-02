@@ -1,14 +1,11 @@
 # Speaker Rider
 
-> Last modified February 15, 2022.
+> Last modified May 02, 2022.
 
 Hi, thanks for looking at my speaker rider! 💖
 
 This is a set of requirements and standards for accepting an offered speaking slot.
 The points here are all things I believe conferences should be doing anyway to make for a more accessible, equitable event for everybody involved.
-
-> This speaker rider applies to conferences I apply to or who reach out to me after **March 1st, 2022**.
-> I will remove this notice after April 2022.
 
 ## tl;dr
 
