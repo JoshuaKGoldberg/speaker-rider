@@ -1,6 +1,6 @@
 # Speaker Rider
 
-> Last modified May 02, 2022.
+> Last modified May 16, 2022.
 
 Hi, thanks for looking at my speaker rider! 💖
 
@@ -12,7 +12,7 @@ The points here are all things I believe conferences should be doing anyway to m
 - **Accessibility**: Be it, whether in-person and/or online
 - **Accommodations**: Pay for travel expenses and my ticket
 - **Code of Conduct**: Have a real one
-- **Diversity, Equity, and Inclusion**: Be at least 30% not-cisgender-male speakers
+- **Diversity, Equity, and Inclusion**: Be at least ~30% not-white-cisgender-male speakers
 - **Fixing Violations**: I'm happy to help, to a point
 
 ## Accessibility
@@ -64,7 +64,7 @@ Events need to be representative of the kind of tech world we want to build: one
 At the very least:
 
 - At least one speaker should be someone who is not already well-known on the speaking circuit.
-- At least 30% of your total speaker lineup should not be cisgender men.
+- At least ~30% of your total speaker lineup should not be white cisgender men.
 - Speakers who are a member of an underrepresented group shouldn't be exclusively invited to speak about their experiences as a member of that group (unless that is a theme of the conference).
 
 ## Fixing Violations
