@@ -1,6 +1,6 @@
 # Speaker Rider
 
-> Last modified May 16, 2022.
+> Last modified June 28, 2022.
 
 Hi, thanks for looking at my speaker rider! 💖
 
@@ -32,12 +32,14 @@ Any website created by the event should conform to [WCAG 2.1](https://www.w3.org
 
 ## Accommodations
 
-No part of the cost of speaking at your event should lie with the speaker.
+No part of the cost of speaking at your event should lie with the speaker\*.
 You should cover at least:
 
 - My ticket to the event
 - Lodgings in an Airbnb or hotel near the venue through the nights before and after the event, inclusive
 - Reasonable food and transportation costs during that time range
+
+If you are a new and/or smaller conference with a limited budget, I understand - we can discuss promoting me & my book in lieu of a direct sponsorship.
 
 ### COVID Safety
 
