@@ -1,6 +1,6 @@
 # Speaker Rider
 
-> Last modified June 28, 2022.
+> Last modified July 21, 2022.
 
 Hi, thanks for looking at my speaker rider! 💖
 
@@ -43,8 +43,7 @@ If you are a new and/or smaller conference with a limited budget, I understand -
 
 ### COVID Safety
 
-Any event venue should comply with local, state, and federal COVID restrictions, including mask and vaccine requirements.
-Any person I come into contact with must either be fully vaccinated, recovered from COVID-19 within the last year, have a valid medical exemption, or have a negative COVID-19 test from within a day prior to the event.
+Any event venue should comply with local, state, and federal COVID restrictions, including any mask and vaccine requirements.
 
 ### Speaking Fees and Honorariums
 
