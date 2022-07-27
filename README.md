@@ -17,9 +17,6 @@ The points here are all things I believe conferences should be doing anyway to m
 
 ## Accessibility
 
-Captioning should be provided, ideally live by a trained professional.
-If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice.
-
 ### In-Person
 
 If the event is in-person, all areas -including any auxiliary events like official afterparties or co-located events- must be accessible to those who require mobility aids, including stages.
@@ -29,6 +26,9 @@ They should adhere to at least the hosting country's equivalent of [ADA standard
 
 All online services necessary for the event, including its website and any video platforms, should be usable by users who with limited or no eyesight, hearing, and/or mobility.
 Any website created by the event should conform to [WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref) by the date of the conference at Level A and at least mostly at AA.
+
+Captioning should be provided, ideally live by a trained professional.
+If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice.
 
 ## Accommodations
 
