@@ -1,6 +1,6 @@
 # Speaker Rider
 
-> Last modified July 21, 2022.
+> Last modified July 27, 2022.
 
 Hi, thanks for looking at my speaker rider! 💖
 
@@ -39,7 +39,7 @@ You should cover at least:
 - Lodgings in an Airbnb or hotel near the venue through the nights before and after the event, inclusive
 - Reasonable food and transportation costs during that time range
 
-If you are a new and/or smaller conference with a limited budget, I understand - we can discuss promoting me & my book in lieu of a direct sponsorship.
+\*If you are a new and/or smaller conference with a limited budget, I understand - we can discuss promoting me & my book in lieu of a direct sponsorship.
 
 ### COVID Safety
 
