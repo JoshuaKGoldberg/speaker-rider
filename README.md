@@ -57,7 +57,7 @@ If I am being paid, all other speakers should be paid as well.
 
 Your event must have an explicitly-defined, enforced Code of Conduct linked publicly on your event's website, preferably as a top-level menu item.
 It should include a clear, readable description of what behavior is and is not acceptable, as well as at least one way for someone to report a violation.
-If you're looking for inspiration, a few good example are: [CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct.md), [TSConf](https://tsconf.io/code-of-conduct), and [Rust Community](https://www.rust-lang.org/policies/code-of-conduct).
+If you're looking for inspiration, a few good examples are: [CNCF](https://github.com/cncf/foundation/blob/main/code-of-conduct.md "CNCF Code of Conduct"), [TSConf](https://tsconf.io/code-of-conduct "TSConf Code of Conduct"), and [Rust Community](https://www.rust-lang.org/policies/code-of-conduct "Rust Community Code of Conduct").
 
 ## Diversity, Equity, and Inclusion
 
