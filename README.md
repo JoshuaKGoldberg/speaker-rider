@@ -32,14 +32,14 @@ If there is absolutely no other option, auto-generated captioning is not the gre
 
 ## Accommodations
 
-No part of the cost of speaking at your event should lie with the speaker\*.
+No part of the cost of speaking at your event should lie with the speaker.
 You should cover at least:
 
 - My ticket to the event
-- Lodgings in an Airbnb or hotel near the venue through the nights before and after the event, inclusive
-- Reasonable food and transportation costs during that time range
+- Lodgings in an Airbnb or hotel near the venue the nights before and after the event
+- Travel to and from the event, such as flights or trains\*
 
-\*If you are a new and/or smaller conference with a limited budget, I understand - we can discuss promoting me & my book in lieu of a direct sponsorship.
+\*If you are a regional and/or smaller conference with a limited budget and relatively cheap attendee tickets (<=$200/day), we can discuss omitting this requirement.
 
 ### COVID Safety
 
