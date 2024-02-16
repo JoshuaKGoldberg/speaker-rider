@@ -1,6 +1,6 @@
 # Speaker Rider
 
-> Last modified March 19th, 2023.
+> Last modified February 16th, 2024.
 
 Hi, thanks for looking at my speaker rider! 💖
 
@@ -25,7 +25,7 @@ They should adhere to at least the hosting country's equivalent of [ADA standard
 ### Virtual
 
 All online services necessary for the event, including its website and any video platforms, should be usable by users who with limited or no eyesight, hearing, and/or mobility.
-Any website created by the event should conform to [WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref) by the date of the conference at Level A and at least mostly at AA.
+Any website created by the event should conform to [WCAG 2.1](https://www.w3.org/WAI/WCAG21/quickref) or newer a week before ticket sales end at Level A and at least mostly at AA.
 
 Captioning should be provided, ideally live by a trained professional.
 If there is absolutely no other option, auto-generated captioning is not the greatest but will suffice.
